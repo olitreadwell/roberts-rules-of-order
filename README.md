@@ -96,8 +96,6 @@ Robert's Rules of Order are a set of guidelines and procedures for conducting me
 
 ---
 
----
-
 ### **Quorum**
 
 #### **Definition**
